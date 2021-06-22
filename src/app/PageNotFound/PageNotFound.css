@@ -1,0 +1,31 @@
+.page-not-found {
+  display: flex;
+  height: 40vw;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #4a4a4a;
+  font-family: "robotoRegular";
+  line-height: 1.6;
+}
+div.page-not-found > div {
+  padding: 12px;
+}
+
+div.page-not-found :nth-child(2) {
+  font-size: 36px;
+  font-weight: bold;
+}
+div.page-not-found :nth-child(3) {
+  font-size: 20px;
+  font-weight: 200;
+}
+div.page-not-found :nth-child(4) {
+  font-size: 20px;
+  font-weight: 200;
+}
+.redirectHome {
+  color: #ea7f28;
+  text-decoration: none;
+}

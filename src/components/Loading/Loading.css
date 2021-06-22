@@ -1,0 +1,11 @@
+.loading-info {
+  align-items: flex-start;
+  text-align: left;
+}
+
+.loading-info > div {
+  height: 16px;
+  width: 400px;
+  background-color: lightgray;
+  margin: 10px;
+}

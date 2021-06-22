@@ -1,0 +1,45 @@
+.car-details-img {
+  background-color: lightgray;
+  height: 300px;
+}
+.car-details-content {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 24px;
+  margin: 12px;
+}
+#saveCarDetails > div {
+  padding: 12px;
+}
+#carDetailsInfo > div {
+  padding: 12px;
+}
+div#carDetailsInfo :nth-child(1) {
+  font-family: "robotoBold";
+  font-size: 32px;
+  color: #4a4a4a;
+}
+div#carDetailsInfo :nth-child(2) {
+  font-family: "robotoRegular";
+  font-size: 24px;
+  color: #4a4a4a;
+}
+div#carDetailsInfo :nth-child(3) {
+  font-family: "robotoRegular";
+  font-size: 16px;
+  color: #4a4a4a;
+  line-height: 1.6;
+}
+#saveCarDetails {
+  border: 1px solid #ededed;
+  padding: 12px;
+  font-family: "robotoRegular";
+  font-size: 16px;
+  color: #4a4a4a;
+  width: 20%;
+  line-height: 1.6;
+}
+.save-details-button {
+  text-align: right;
+  font-family: "robotoRegular";
+}

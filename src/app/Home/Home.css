@@ -1,0 +1,20 @@
+.home-grid {
+  padding-top: 24px;
+  padding-bottom: 2.5rem;
+}
+
+.available-cars {
+  font-family: "robotoBold";
+  font-weight: 400;
+  font-size: 18px;
+  margin: 12px;
+  color: #4a4a4a;
+}
+
+.car-count-display {
+  font-family: "robotoRegular";
+  font-size: 18px;
+  margin: 12px;
+  color: #4a4a4a;
+  margin-bottom: 24px;
+}

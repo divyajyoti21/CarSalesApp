@@ -1,0 +1,58 @@
+.available-cars {
+  font-family: "robotoBold";
+  font-weight: 400;
+  font-size: 18px;
+  margin: 12px;
+}
+
+.car-count-display {
+  font-family: "robotoRegular";
+  font-size: 18px;
+  margin: 12px;
+}
+
+.display-card {
+  display: flex;
+  border: 1px solid #ededed;
+  padding: 8px;
+}
+
+.card-img-style {
+  width: 100px;
+  height: 80px;
+  margin-right: 12px;
+  object-fit: fill;
+  background-color: lightgray;
+}
+
+.car-info {
+  align-items: flex-start;
+  text-align: left;
+}
+
+.car-name {
+  font-size: 20px;
+  font-family: "robotoBold";
+  font-weight: 400;
+  margin: 8px;
+  text-align: left;
+  color: #4a4a4a;
+}
+
+.car-details {
+  font-size: 14px;
+  font-family: "robotoRegular";
+  font-weight: 150;
+  margin: 8px;
+  text-align: left;
+  color: #4a4a4a;
+}
+
+.link-details {
+  color: #ea7f28;
+  font-size: 14px;
+  font-family: "robotoRegular";
+  font-weight: 200;
+  margin: 8px;
+  text-align: left;
+}

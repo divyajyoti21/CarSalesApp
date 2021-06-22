@@ -1,0 +1,15 @@
+.paginate {
+  display: flex;
+  justify-content: center;
+  margin: 8px;
+}
+
+.page-count {
+  font-size: 14px;
+  font-family: "robotoRegular";
+  color: #4a4a4a;
+}
+
+#paginate > div {
+  padding: 12px;
+}
